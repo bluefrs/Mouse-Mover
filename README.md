@@ -1,4 +1,11 @@
 # Mouse-Mover
+V1.0 update:
+-GUI added
+-Only one moving sequence. Temporary.
+-Time interval dropped. Temporary.
+
+
+
 Simple command line tool to keep screen on.
 Can also be used if you work from home to remain active for your metrics.
 
